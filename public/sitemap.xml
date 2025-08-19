@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
       <url>
-            <loc>https://florianfeigl.dev/cv/</loc>
+            <loc>https://florianfeigl.dev/</loc>
+            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>https://florianfeigl.dev/</loc>
+            <loc>https://florianfeigl.dev/projects/paparazzo/</loc>
+            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
             <loc>https://florianfeigl.dev/projects/</loc>
+            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://florianfeigl.dev/cv/</loc>
           </url>
     
   

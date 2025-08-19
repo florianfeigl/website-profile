@@ -1,5 +1,7 @@
 +++
 title = "Paparazzo"
+summary = "Academic project to automate and standardize photo documentation."
+date = 2025-01-01
 feature = "rpi-arduino-interaction.png"
 +++
 #### Abstract

@@ -12,42 +12,39 @@ As a solution-oriented innovator driven by curiosity, I possess a unique and val
 
 ## Education
 #### Bachelor of Science
-**2009 - 2017** \
-*Paris-Lodron-Universität, Salzburg, Austria* \
-**Thesis**: Extraction of 14-3-3 proteins of protein extracts.
-+ Development of experimental setups.
-+ Optimization of data procession.
-+ Protein extraction and detection via SDS-PAGE, Western Blotting and ELISA.
-+ DNA amplifiction via PCR techniqes.
-+ Examination of cell cultures and their metabolites with FACS and FC.
+|   |   |
+|---|---|
+|**Period**|2009 - 2017|
+|**Institute**|*Paris-Lodron-Universität, Salzburg, Austria*|
+|**Thesis**|Extraction of 14-3-3 proteins of protein extracts.|
+|**Core Lessons**|+ Development of experimental setups. <br />+ Optimization of data procession. <br />+ Protein extraction and detection via SDS-PAGE, Western Blotting and ELISA. <br />+ DNA amplifiction via PCR techniqes. <br />+ Examination of cell cultures and their metabolites with FACS and FC.|
 
 #### Abitur
-**2002 - 2009** \
-*St. Michaels Gymnasium, Metten, Germany* \
-*GymPan, Pfarrkirchen, Germany* 
-+ **Major subjects**: English and Biology.
-+ **Thesis**: Cultivation of *Agrocybe aegerita* on different media.
+|   |   |
+|---|---|
+|**Period**|2002 - 2009|
+|**Institutes**|*St. Michaels Gymnasium, Metten, Germany* <br /> *GymPan, Pfarrkirchen, Germany*|
+|**Major Subjects**|English, Biology|
+|**Thesis**|Cultivation of *Agrocybe aegerita* on different media.|
 
 ## Professional Experience
-**Technical Assistant** \
-*2024 - Present* \
-**Paris Lodron University, Salzburg, Austria** 
-+ Independant development and deployment of requested services.
-+ Building and maintaining infrastructure.
-+ Usermanagment of students and staff as well as providing support.
+|   |   |
+|---|---|
+|**Role**|Technical Assistant|
+|**Period**|2024 - Present|
+|**Institute**|*Paris Lodron University, Salzburg, Austria*|
+|**Responsibilities**|+ Independant development and deployment of requested services. <br />+ Building and maintaining infrastructure. <br />+ Usermanagment of students and staff as well as providing support.|
 
 #### Product Specialist Advanced Staining</h4>
-**2022 - 2023** \
-*Sakura Finetek Germany GmbH, Umkirch, Germany* 
-+ Key role position during roll out phase of a new product line.
-+ First contact product inquiries, both internally and externally.
-+ Generating feedback data and driving development and solutions.
-+ Developing diagnostic keys in collaboration with pathologists.
+|   |   |
+|---|---|
+|**Period**|2022 - 2023|
+|**Institute**|*Sakura Finetek Germany GmbH, Umkirch, Germany*|
+|**Responsibilities**|+ Key role position during roll out phase of a new product line. <br />+ First contact product inquiries, both internally and externally. <br />+ Generating feedback data and driving development and solutions. <br />+ Developing diagnostic keys in collaboration with pathologists.|
 
 #### Biomedical Analyst
-**2020 - 2022** \
-*Dr. Ulm GmbH, Vienna, Austria*
-+ Histological procession of FFPE specimens.
-+ Histo- and immunohistochemical staining of sections.
-+ Designing SOPs and aligning teams.
-+ Quality control of products and feedback loop with pathologists.
+|   |   |
+|---|---|
+|**Period**|2020 - 2022|
+|**Institute**|*Dr. Ulm GmbH, Vienna, Austria*|
+|**Responsibilities**|+ Histological procession of FFPE specimens. <br />+ Histo- and immunohistochemical staining of sections. <br />+ Designing SOPs and aligning teams. <br />+ Quality control of products and feedback loop with pathologists.|
