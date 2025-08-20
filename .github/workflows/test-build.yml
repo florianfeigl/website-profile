@@ -13,17 +13,18 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-        fetch-depth: 0   # Für vollständigen Git-History
+        submodules: true  # Falls du Git-Submodules (z. B. für Themes) nutzt
         path: .           # Ggf. ändern, falls du ein Verzeichnis mit dem Checkout anlegen willst
 
     - name: Install Hugo
       run: |
         apk add --no-cache --update-cache --virtual .build-deps $ Hugo extended-binaries
         apk add --no-cache --update-cache git
+        # Dieser Schritt kann für deine Hugo-Version angepasst werden (aktuell: hugo_0.94.0-r0.apk)
 
     - name: Build
-      run: hugo --minify --themesDir ../.. --baseURL https://jpanther.github.io/congo/
-      working-directory: .     # Arbeitsverzeichnis für `hugo build` (anpassen, falls nötig)
+      run: hugo --minify --baseURL "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/"
+      working-directory: .     # Falls der Checkout in ein Unterverzeichnis klonen wollte
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
