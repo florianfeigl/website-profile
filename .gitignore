@@ -6,7 +6,7 @@ node_modules/
 ### Hugo ###
 # Generated files by hugo
 **/exampleSite/
-#**/public/
+**/public/
 **/resources/_gen/
 
 # Executable may be added to repository
