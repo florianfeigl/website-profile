@@ -1,0 +1,67 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "florianfeigl.dev"
+copyright = "Copyright (c) 2025 Florian Feigl. All Rights Reserved."
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["CV", "Skillset", "Projects", "Content"]
+  # description = "My profile website"
+
+[params.author]
+  name = "Florian Feigl"
+  image = "img/author.jpg"
+  headline = "Biology. Medicine. Technology."
+  bio = "<p>I am driven by curiosity and fascinated by the rapidly advancing world of medical devices. My strong ability to adapt, gather feedback data, and deliver solutions positions me best in non-routine work processes. I am both a biologist and a developer.</p> <p>From an early age, I was captivated by nature and the sciences. Throughout my studies and career, I've developed core competencies in histology, physiology, and immunology, while also bridging gaps to automation and data processing in interdisciplinary areas involving computer science.</p> <p>I was born in 1988 in Zwiesel, Germany. My family moved from the Bayrischer Wald region to Rottal, where my parents started a veterinary business. In 2009, I finished school in Pfarrkirchen and moved to Salzburg to pursue a bachelor's program in <em>Biology</em>. I lived and worked in Salzburg until 2017 when I graduated.</p> <p>In 2018, I moved to Vienna to start a master's program in <em>Bioinformatics</em>. During this period, I secured my first job and prioritized my independence. From 2020 to 2022, I developed a keen interest and gained experience in histopathology.</p> <p>In 2022, I joined Sakura Finetek as a <em>Product Specialist</em> in <em>Advanced Staining</em> vulgo <em>Immunohistochemistry</em>. I was responsible for customer support, gathering feedback, and delivering solutions through daily root-cause analysis.</p>"
+  links = [
+    { email = "mailto:florian.feigl@gmail.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+    { github = "https://github.com/florianfeigl" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
+  #   { hashnode = "https://username.hashnode.dev" },
+    { instagram = "https://instagram.com/_florianfeigl" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { kofi = "https://ko-fi.com/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+    { linkedin = "https://linkedin.com/in/florianfeigl" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { mendeley = "https://www.mendeley.com/" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+    { steam = "https://steamcommunity.com/profiles/clockshell" },
+  #   { telegram = "https://t.me/username" },
+  #   { threads = "https://threads.net/@username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { x-twitter = "https://twitter.com/username" },
+  #   { youtube = "https://youtube.com/username" },
+  #   { xing = "https://xing.com/profile/username" },
+  ]
