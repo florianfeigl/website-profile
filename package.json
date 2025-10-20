@@ -42,7 +42,7 @@
     "prettier-plugin-tailwindcss": "^0.6.14",
     "quicklink": "^3.0.1",
     "rimraf": "^6.0.1",
-    "tailwindcss": "^4.1.12",
+    "tailwindcss": "^4.1.15",
     "vendor-copy": "^3.0.1"
   },
   "vendorCopy": [],
