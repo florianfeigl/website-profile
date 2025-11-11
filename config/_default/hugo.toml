@@ -5,6 +5,9 @@
 baseURL = "https://florianfeigl.dev/"
 defaultContentLanguage = "en"
 
+relativeURLs = true
+canonifyURLs = true
+
 enableRobotsTXT = true
 summaryLength = 0
 
