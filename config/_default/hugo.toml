@@ -5,6 +5,7 @@
 baseURL = "https://florianfeigl.dev/"
 defaultContentLanguage = "en"
 
+publishDir = "public"
 relativeURLs = true
 canonifyURLs = false
 
