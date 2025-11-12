@@ -34,7 +34,7 @@
     "@tailwindcss/typography": "^0.5.19",
     "chart.js": "^4.5.1",
     "fuse.js": "^7.1.0",
-    "jsdom": "^27.1.0",
+    "jsdom": "^27.2.0",
     "katex": "^0.16.25",
     "mermaid": "^11.12.1",
     "prettier": "^3.6.2",
