@@ -41,7 +41,7 @@
     "prettier-plugin-go-template": "^0.0.15",
     "prettier-plugin-tailwindcss": "^0.7.1",
     "quicklink": "^3.0.1",
-    "rimraf": "^6.1.0",
+    "rimraf": "^6.1.2",
     "tailwindcss": "^4.1.17",
     "vendor-copy": "^3.0.1"
   },
